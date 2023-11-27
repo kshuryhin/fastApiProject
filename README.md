@@ -39,7 +39,7 @@ git clone https://github.com/kshuryhin/fastApiProject.git
 cd fastApiProject
 ```
 5. **Start the Application with Docker Compose**:
-```
+```sh
 docker-compose up -d
 ```
 This command pulls the necessary Docker image, builds the service, and starts the FastAPI application.
