@@ -43,3 +43,9 @@ cd fastApiProject
 docker-compose up -d
 ```
 This command pulls the necessary Docker image, builds the service, and starts the FastAPI application.
+
+### Run e2e tests
+You should install
+```sh
+pip install pytest
+```
